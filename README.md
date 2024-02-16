@@ -1,3 +1,6 @@
 # Projet_NSI
 Projet_NSI:
-slt ici c le note on annoce tt nos update qu'on fait:
+
+j'ai cree cette zone de travaille pour faciliter la communication de bug.
+Et pour annocer des update.
+mais aussi pour faire l'officiel. 
