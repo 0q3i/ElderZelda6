@@ -8,3 +8,6 @@ This game is a simple project created using the Pyxel game engine. The game is v
 
 The game is currently in active development and could be considered to be in beta.
 
+Contributions:
+
+If you wish to add or remove something, you can always contact me or do it yourself. However, please leave a comment indicating that you made a change and provide your GitHub username.
