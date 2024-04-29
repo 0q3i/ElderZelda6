@@ -1,8 +1,10 @@
 # Elder Zelda 6
+
 Elder Zelda 6:
 
-Elder Zelda 6 est un petit jeu inspiré des jeux Elder Scrolls et de la légende de Zelda. Vous vous retrouvez dans une forêt perdue où vous rencontrez une fille, elle aussi perdue. Votre mission est de l'aider à sortir de la forêt labyrinthique, tout en affrontant des monstres et en surmontant des obstacles.
+Elder Zelda 6 is a small game inspired by the Elder Scrolls series and The Legend of Zelda. You find yourself in a lost forest where you encounter a girl who is also lost. Your mission is to help her navigate through the labyrinthine forest, facing monsters and overcoming obstacles along the way.
 
-Ce jeu est un projet simple réalisé en utilisant le moteur de jeu Pyxel. Le jeu est très primitif et ne comporte même pas de musique.
+This game is a simple project created using the Pyxel game engine. The game is very primitive and does not even include music.
 
-Le jeu est actuellement en plein développement et pourrait être considéré comme étant en version bêta.
+The game is currently in active development and could be considered to be in beta.
+
